@@ -1,16 +1,4 @@
-# Flutter facebook UI for android ios and web
+# Flutter facebook UI for android ios and web on single code base
 
 A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ ![facebook-UI](https://github.com/Nomankhan65/flutter-Facebook-UI/assets/139708603/092b9543-abdb-4efc-9e80-09595585a024)
